@@ -1,6 +1,6 @@
 
 """
-This module provides basic collections operations.
+This module provides basic list operations.
 """
 
 #Title: Working with Lists.
