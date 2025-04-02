@@ -2,13 +2,7 @@
 This module provides basic collections dictionary operations.
 """
 
-i = 0
-print(i)
 
-#iterator
-while i < 5:
-    print(i)
-    i += 1
 
 # List of fruits
 fruits= [
@@ -25,5 +19,12 @@ print("Our Fruit Selection")
 for fruit in fruits:
     print(fruit)
 
+i = 0
+print(i)
+
+#iterator
+while i < 5:
+    print(i)
+    i += 1
 
 #End-of-file (EOF)(\n)
