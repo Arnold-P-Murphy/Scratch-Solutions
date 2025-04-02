@@ -13,6 +13,10 @@ print(miles + " miles is equal to " + str(float(miles) * 1.60934) + " kilometers
 
 
 
+kilometers = float(miles) * 1.60934 # 1.60934
+# Print the result
+print(miles + " miles is equal to " + str(kilometers) + " kilometers.")
+# Print the result
 
 
 
