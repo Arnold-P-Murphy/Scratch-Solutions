@@ -24,4 +24,13 @@ print(kilometers + " kilometers is equal to " + str(float(kilometers) / 1.60934)
 # Convert kilometers to miles
 
 
+miles_float = float(miles)
+# Convert miles to kilometers
+kilometers = miles_float * 1.60934
+print("that value in kilometers is: ")
+print(kilometers)
+
+# Print the result
+
+
 # End-of-file (EOF)
