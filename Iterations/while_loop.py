@@ -1,5 +1,5 @@
 """
-This module provides basic collections dictionary operations.
+This module provides basic collections loop operations.
 """
 
 
