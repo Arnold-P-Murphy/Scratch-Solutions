@@ -1,5 +1,5 @@
 """
-This module provides basic collections dictionary operations.
+This module provides loop operation.
 """
 
 
@@ -14,6 +14,9 @@ for spice in spices:
     print(spice)
 print('No more boring omelettes!')
 # List of spices
+
+
+
 
 
 #End-of-file (EOF)(\n)
