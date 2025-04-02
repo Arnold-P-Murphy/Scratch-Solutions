@@ -12,3 +12,7 @@ dictionary_original = {
     'item3': 'creating_dictionary3',
     'item4': 'creating_dictionary4',     
 }
+
+
+print (dictionary_original['item0']);
+
