@@ -2,13 +2,7 @@
 #creating lists
 #printing lists
 #iterating lists
-#modifying lists
-#adding elements to lists
-#removing elements from lists
-#sorting lists
-#reversing lists
-#copying lists
-#list comprehension
+
 
 
 #creating lists
