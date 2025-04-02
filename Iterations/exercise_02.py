@@ -1,5 +1,5 @@
 """
-This module demonstrates a simple iteration over a list of fruits.
+This module demonstrates a simple iteration over a list using the while loop.
 
 Author: Arnold Murphy
 Date: 2025-04-02
