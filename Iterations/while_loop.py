@@ -1,8 +1,9 @@
 """
-This module provides basic collections loop operations.
+This module provides functions for processing data.
+
+Author: Arnold Murphy
+Date: 2025-04-02
 """
-
-
 
 # List of fruits
 fruits= [

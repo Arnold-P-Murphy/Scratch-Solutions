@@ -1,6 +1,10 @@
 """
-This module provides basic collections dictionary operations.
+This module provides functions for processing data.
+
+Author: Arnold Murphy
+Date: 2025-04-02
 """
+
 # Nearest stars to Earth
 STAR_1 = 'Sol'
 STAR_2 = 'Alpha Centauri'

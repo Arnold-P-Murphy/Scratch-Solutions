@@ -1,5 +1,8 @@
 """
-This module provides basic dictionary operations.
+This module provides functions for processing data.
+
+Author: Arnold Murphy
+Date: 2025-04-02
 """
 #working with dictionary
 #creating a dictionary

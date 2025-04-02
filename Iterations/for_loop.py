@@ -1,5 +1,8 @@
 """
-This module provides loop operation.
+This module provides functions for processing data.
+
+Author: Arnold Murphy
+Date: 2025-04-02
 """
 
 
