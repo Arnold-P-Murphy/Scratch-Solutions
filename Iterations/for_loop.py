@@ -5,21 +5,27 @@ Author: Arnold Murphy
 Date: 2025-04-02
 """
 
-
-spices = [
-    'salt',
-    'pepper',
-    'cumin',
-    'turmeric',     
+# List of fruits
+fruits= [
+    'apples',
+    'bananas',
+    'dragon fruit',
+    'mangos',
+    'nectarines',
+    'pears',     
 ]
 
-for spice in spices:
-    print(spice)
-print('No more boring omelettes!')
-# List of spices
+print("Our Fruit Selection")
+# Loop through the list of spices
+for fruit in fruits:
+    print(fruit)
 
+i = 0
+print(i)
 
-
-
+#iterator
+while i < 5:
+    print(i)
+    i += 1
 
 #End-of-file (EOF)(\n)
