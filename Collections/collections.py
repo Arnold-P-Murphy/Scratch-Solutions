@@ -39,27 +39,16 @@ stars_dict = {
 # List of stars and their distances from Earth
 
 stars = [
-    {'name': 'Sol', 'distance': 0},
-    {'name': 'Alpha Centauri', 'distance': 4.34},
-    {'name': 'Barnard', 'distance': 3.25},
-    {'name': 'Wolf 359', 'distance': 1.69},
+    {'name0': 'Sol', 'distance': 0},
+    {'name1': 'Alpha Centauri', 'distance': 4.34},
+    {'name2': 'Barnard', 'distance': 3.25},
+    {'name3': 'Wolf 359', 'distance': 1.69},
 ]
 
-print(stars[3]['name'])
-print(stars_dict['Wolf 359'])
+print(stars[3]['name3'])
+print(stars_dict['name3']['distance'])
+# Output: 1.69
 # Output: Wolf 359
-
-tectonic_plates_list = [
-    {'name0': 'African', 'highest_peak': AFRICAN},
-    {'name1': 'Antarctic', 'highest_peak': ANTARCTIC},
-    {'name2': 'Australian', 'highest_peak': AUSTRALIAN},
-    {'name3': 'Eurasian', 'highest_peak': EURASIAN},
-    {'name4': 'North American', 'highest_peak': NORTH_AMERICAN},
-    {'name5': 'Pacific', 'highest_peak': PACIFIC},
-    {'name6': 'South American', 'highest_peak': SOUTH_AMERICAN}
-]
-
-print(tectonic_plates_list[5]['name'])
 
 print(tectonic_plates['Pacific'])
 
