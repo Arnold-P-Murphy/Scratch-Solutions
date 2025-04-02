@@ -27,5 +27,10 @@ print('\nTotal: ' + str(sum), file=outfile)
 outfile.close()
 print('Output complete')
 
+
+
+
 # End-of-file (EOF)
+
+
 
