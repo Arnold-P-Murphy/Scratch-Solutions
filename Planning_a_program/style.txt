@@ -1,3 +1,9 @@
 PEP8 PYTHON STYLE GUIDE
 
 INTERESTING CONSIDERATIONS
+
+
+Pseudocode is how to write code from a description...
+
+Outline is a good way to write code from a description. 
+
