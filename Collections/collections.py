@@ -30,6 +30,9 @@ tectonic_plates = {
 }
 # Dictionary of stars and their distances from Earth
 
+print('Pacific:', tectonic_plates['Pacific'])
+
+
 stars_dict = {
     'Sol': 0,
     'Alpha Centauri': 4.34,
@@ -37,22 +40,14 @@ stars_dict = {
     'Wolf 359': 1.69,
 }
 # List of stars and their distances from Earth
-
-stars = [
-    {'name0': 'Sol', 'distance': 0},
-    {'name1': 'Alpha Centauri', 'distance': 4.34},
-    {'name2': 'Barnard', 'distance': 3.25},
-    {'name3': 'Wolf 359', 'distance': 1.69},
+stars_list = [
+    ['Sol', 0],
+    ['Alpha Centauri', 4.34],
+    ['Barnard', 3.25],
+    ['Wolf 359', 1.69],
 ]
 
-print(stars[3]['name3'])
-print(stars_dict['name3']['distance'])
-# Output: 1.69
-# Output: Wolf 359
-
-print(tectonic_plates['Pacific'])
-
-# Output: Pacific
-#List of stars and their distances from Earth
-
+print('Sol:', stars_dict['Sol'])
+print(stars_list[3])
+# Dictionary of stars and their distances from Earth
 #End-of-file (EOF)(\n)
