@@ -1,5 +1,5 @@
 """
-This module provides basic list operations.
+This module is a test module.
 """
 
 
