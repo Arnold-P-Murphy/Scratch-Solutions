@@ -3,7 +3,7 @@ def plant_recommendation(care):
         print('aloe')
     elif care == 'medium':
         print('pothos')
-    elif care == 'medium':
+    elif care == 'high':
         print('orchid')
 
 plant_recommendation('low')
