@@ -1,3 +1,8 @@
+"""
+This module provides basic collections dictionary operations.
+"""
+
+
 spices = [
     'salt',
     'pepper',
@@ -5,3 +10,4 @@ spices = [
     'turmeric',     
 ]
 
+#End-of-file (EOF)(\n)
