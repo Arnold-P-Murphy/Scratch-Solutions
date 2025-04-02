@@ -16,9 +16,9 @@ fruits= [
 ]
 
 print("Our Fruit Selection")
-# Loop through the list of spices
-for fruit in fruits:
-    print(fruit)
+
+
+
 
 i = 0
 print(i)

@@ -20,12 +20,5 @@ print("Our Fruit Selection")
 for fruit in fruits:
     print(fruit)
 
-i = 0
-print(i)
-
-#iterator
-while i < 5:
-    print(i)
-    i += 1
 
 #End-of-file (EOF)(\n)
