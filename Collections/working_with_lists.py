@@ -1,3 +1,9 @@
+
+"""
+This module provides basic collections operations.
+"""
+
+#Title: Working with Lists.
 #working with lists
 #creating lists
 #printing lists
