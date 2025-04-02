@@ -62,4 +62,4 @@ print(tectonic_plates_list[5]['name'])
 # Output: Pacific
 #List of stars and their distances from Earth
 
-#End-of-file (EOF)
+#End-of-file (EOF)(\n)
