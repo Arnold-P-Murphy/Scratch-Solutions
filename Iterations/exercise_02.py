@@ -16,6 +16,8 @@ print(my_list)
 print(my_list[i])
 #output: 1
 
+print("this is a list in order")
+
 
 
 while i < len(my_list):
